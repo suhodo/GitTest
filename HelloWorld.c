@@ -5,7 +5,8 @@ int main()
 	printf("HelloWorld\n");
 	printf("Good Morning\n");
 	printf("Bye");
-
+	
+	puts("Qoooooooooo");
 
 
 
