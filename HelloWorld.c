@@ -8,6 +8,7 @@ int main()
 	
 	puts("Qoooooooooo");
 
+	printf("2*4=%d", 2*4);
 
 
 
